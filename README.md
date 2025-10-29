@@ -32,7 +32,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Bible study and its life applications
 
 # Experience with Languages
-* Human: English, Thai, Japanese (Beginner Level), German (Beginner Level)
+* English, Thai, Japanese (Beginner Level), German (Beginner Level), French (Beginner Level)
 
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
