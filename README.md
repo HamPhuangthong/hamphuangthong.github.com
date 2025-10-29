@@ -15,9 +15,9 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Payap University
 
 # Experience
-* Assistant Store Manager - CLC Thailand
-* Store Manager - CLC Thailand
-* Regional Manager - CLC Thailand
+* Assistant Store Manager - CLC International, CLC Thailand
+* Store Manager - CLC International, CLC Thailand
+* Regional Manager - CLC International, CLC Thailand
 * Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
 * Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
 * Research Assistant - Wellcome Laboratory, Johns Hopkins University 
