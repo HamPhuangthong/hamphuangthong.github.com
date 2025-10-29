@@ -16,7 +16,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
-* Interpreter and Translator for Christian Missionary Organization - Chiang Mai, Thailand
+* Interpreter and Translator for Christian Missionary Organizations in Chiang Mai, Thailand
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
