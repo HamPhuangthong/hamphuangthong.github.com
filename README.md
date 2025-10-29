@@ -1,3 +1,5 @@
+<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+
 # hamphuangthong.github.com
 # _Ham Phaungthong_
 > Payap University, Department of Hospilitary and Tourism<br />
