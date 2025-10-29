@@ -21,7 +21,8 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Interpreter and Translator for Christian Missionary Organization - Chiang Mai, Thailand
 * Immigration Consultant - Chiang Mai, Thailand
 * Assistant Regional Manager (Northern Thailand) - P.T. Air Cargo Company Limited
-* Cleaning Staff / Crew - Jani‑King International, Inc. 
+* Distribution & Delivery Staff - The Star (Christchurch, New Zealand)
+* Cleaning Staff / Crew - Jani‑King International, Jani-King New Zealand
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
