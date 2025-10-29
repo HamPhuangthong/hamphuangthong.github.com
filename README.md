@@ -15,22 +15,10 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Payap University
 
 # Experience
-* Assistant Store Manager - CLC International, CLC Thailand
-* Store Manager - CLC International, CLC Thailand
 * Regional Manager - CLC International, CLC Thailand
+* Store Manager - CLC International, CLC Thailand
+* Assistant Store Manager - CLC International, CLC Thailand
 * Interpreter for Christian Missionary Organization in Chiang Mai, Thailand
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
