@@ -1,7 +1,7 @@
 <img src="http://hamphuangthong.github.io/ham.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Tanaphat (Ham) Phaungthong_
-> Payap University, Department of Hospilitary and Tourism<br />
+> Payap University, Department of Hospitality and Tourism<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
@@ -18,7 +18,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Assistant Store Manager - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Regional Manager - CLC International, CLC Thailand
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
+* Interpreter for Christian Missionary Organization in Chiang Mai, Thailand
 * Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
 * Research Assistant - Wellcome Laboratory, Johns Hopkins University 
 * Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
