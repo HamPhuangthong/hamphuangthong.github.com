@@ -11,7 +11,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Spreydon School
 * Christchurch South Intermediate
 * Cashmere High School
-
+* Payap University
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
