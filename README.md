@@ -28,7 +28,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Blended and online education for higher education and livelong learning
 * Bible study and its life applications
 
-# Project experience with Languages
+# Experience with Languages
 * Human: English, Thai, Japanese (Beginner Level), German (Beginner Level).
 
 # Contact Info
