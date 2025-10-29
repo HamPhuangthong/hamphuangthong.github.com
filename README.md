@@ -12,7 +12,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Spreydon Primary School
 * Christchurch South Intermediate
 * Cashmere High School
-* BA Hospitality and Tourism Management - Payap University
+* Hospitality and Tourism Management - Payap University
 
 # Experience
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
