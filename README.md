@@ -15,12 +15,12 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Payap University
 
 # Experience
-* Regional Manager (Northern Thailand) - CLC International, CLC Thailand
+* Regional Store Manager (Northern Thailand) - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
 * Interpreter and Translator for Christian Missionary Organization - Chiang Mai, Thailand
 * Immigration Consultant - Chiang Mai, Thailand
-* P.T. Air Cargo Company Limited
+* Assistant Regional Manager (Northern Thailand) - P.T. Air Cargo Company Limited
 * Cleaning Staff / Crew - Jani‑King International, Inc. 
 
 # Interests
