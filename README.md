@@ -19,10 +19,10 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
-* Interpreter and Translator for Christian Missionary Organizations in Chiang Mai, Thailand
+* Interpreter and Translator for Christian Missionary Organizations - Chiang Mai, Thailand
 * Assistant Regional Director (Northern Thailand) - P.T. Air Cargo Company Limited
 * Cleaning Staff / Crew - Jani‑King International, Jani-King New Zealand
-* Distribution & Delivery Staff - The Star (Christchurch, New Zealand)
+* Distribution & Delivery Staff - The Star - Christchurch, New Zealand
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
