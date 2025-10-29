@@ -8,7 +8,7 @@
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
 
 # Education
-* Satit Prasarnmit Demonstration School, Elementary School
+* Satit Prasarnmit Demonstration School
 * Spreydon School
 * Christchurch South Intermediate
 * Cashmere High School
