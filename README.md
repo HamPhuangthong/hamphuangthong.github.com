@@ -1,7 +1,7 @@
 <img src="http://hamphuangthong.github.io/ham.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Tanaphat (Ham) Phuangthong_
-> Payap University, Department of Hospitality and Tourism<br />
+> Payap University, Department of Hospitality and Tourism Management<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
