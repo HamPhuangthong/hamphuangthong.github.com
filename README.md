@@ -1,6 +1,5 @@
 <img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
-# hamphuangthong.github.io
 # _Tanaphat (Ham) Phaungthong_
 > Payap University, Department of Hospilitary and Tourism<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
