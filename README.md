@@ -19,6 +19,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
 * Interpreter for Christian Missionary Organization in Chiang Mai, Thailand
+* Immigration Consultant in Chiang Mai, Thailand
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
