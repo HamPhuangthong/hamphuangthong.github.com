@@ -1,4 +1,4 @@
-<img src="http://hamphuangthong.github.io/ham.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://hamphuangthong.github.io/ham.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Tanaphat (Ham) Phaungthong_
 > Payap University, Department of Hospilitary and Tourism<br />
