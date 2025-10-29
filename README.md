@@ -1,6 +1,6 @@
 <img src="http://hamphuangthong.github.io/ham.jpg" alt="RPB Photo" align="right" width="30%"/>
 
-# _Tanaphat (Ham) Phaungthong_
+# _Tanaphat (Ham) Phuangthong_
 > Payap University, Department of Hospitality and Tourism<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
