@@ -18,7 +18,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Regional Manager - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
-* Interpreter for Christian Missionary Organization in Chiang Mai, Thailand
+* Interpreter and Translator for Christian Missionary Organization in Chiang Mai, Thailand
 * Immigration Consultant in Chiang Mai, Thailand
 
 # Interests
