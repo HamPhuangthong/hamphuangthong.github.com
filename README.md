@@ -15,11 +15,11 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Hospitality and Tourism Management - Payap University
 
 # Experience
+* Immigration Consultant - Chiang Mai, Thailand
+* Interpreter and Translator for Christian Missionary Organization - Chiang Mai, Thailand
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
-* Interpreter and Translator for Christian Missionary Organization - Chiang Mai, Thailand
-* Immigration Consultant - Chiang Mai, Thailand
 * Assistant Regional Manager (Northern Thailand) - P.T. Air Cargo Company Limited
 * Distribution & Delivery Staff - The Star (Christchurch, New Zealand)
 * Cleaning Staff / Crew - Jani‑King International, Jani-King New Zealand
