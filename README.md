@@ -7,10 +7,11 @@
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Satit Prasarnmit Demonstration School, Elementary School
+* Spreydon School
+* Christchurch South Intermediate
+* Cashmere High School
+
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
