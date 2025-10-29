@@ -15,7 +15,9 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Payap University
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
+* Assistant Manager - CLC Thailand
+* Local Manager - CLC Thailand
+* Regional Manager - CLC Thailand
 * Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
 * Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
 * Research Assistant - Wellcome Laboratory, Johns Hopkins University 
