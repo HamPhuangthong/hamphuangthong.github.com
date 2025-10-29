@@ -9,7 +9,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 
 # Education
 * Satit Prasarnmit Demonstration School
-* Spreydon School
+* Spreydon Primary School
 * Christchurch South Intermediate
 * Cashmere High School
 * Payap University
