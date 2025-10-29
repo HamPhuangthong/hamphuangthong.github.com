@@ -20,7 +20,7 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
-* Assistant Regional Manager (Northern Thailand) - P.T. Air Cargo Company Limited
+* Assistant Regional Director (Northern Thailand) - P.T. Air Cargo Company Limited
 * Distribution & Delivery Staff - The Star (Christchurch, New Zealand)
 * Cleaning Staff / Crew - Jani‑King International, Jani-King New Zealand
 
