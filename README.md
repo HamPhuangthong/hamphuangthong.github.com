@@ -50,8 +50,4 @@
 * French – Beginner
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Facebook](https://www.facebook.com/profile.php?id=61582542071603)
