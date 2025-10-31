@@ -4,15 +4,14 @@
 > Payap University, Department of Hospitality and Tourism Management<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> Curious and globally minded Hospitality and Tourism Management student with strong intercultural communication skills developed through study and work experiences in Thailand and New Zealand. Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2022, I have also been exploring the field of Artificial Intelligence, specializing in prompt engineering, AI model training, and creative computer applications. As well as applying AI-driven tools in hospitality, education, and tourism innovation. Combining interests in technology, language, and hospitality, I strive to enhance guest experiences, improve operational efficiency, and promote cross-cultural understanding through digital transformation and creative engagement.
 
 # Education
-* Srinakharinwirot University Prasarnmit Demonstration School, Elementary School
-* Spreydon Primary School
-* Christchurch South Intermediate
-* Cashmere High School
-* Hospitality and Tourism Management - Payap University
+* Hospitality and Tourism Management, Payap University – Chiang Mai, Thailand
+* Cashmere High School, Christchurch, New Zealand
+* Christchurch South Intermediate, Christchurch, New Zealand
+* Spreydon Primary School, Christchurch, New Zealand
+* Srinakharinwirot University Prasarnmit Demonstration School, Bangkok, Thailand
 
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
@@ -25,14 +24,19 @@ and Web Community Development as well as mutagenic and carcinogenic activities o
 * Distribution & Delivery Staff - The Star - Christchurch, New Zealand
 
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
+* Artificial Intelligence & Prompt Engineering — training and optimizing AI models, exploring human–AI interaction since 2022
+* Computer Applications & Game Design — modding, creating, and experimenting with games and simulation-based learning tools
+* Historical Studies — European eras (Napoleonic, Victorian, WWI–WWII) and Asian periods (Three Kingdoms, Sengoku, Edo)
+* Hospitality Technology — using data analytics, AI, and automation to enhance guest service and tourism operations
+* Language & Cultural Exchange — developing translation and communication solutions for international hospitality contexts
+* Blended and Online Learning — promoting accessible education for global tourism professionals
 
-# Experience with Languages
-* English, Thai, Japanese (Beginner Level), German (Beginner Level), French (Beginner Level)
+# Languages
+* Thai – Native
+* English – Fluent
+* Japanese – Beginner
+* German – Beginner
+* French – Beginner
 
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
