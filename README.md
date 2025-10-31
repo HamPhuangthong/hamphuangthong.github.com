@@ -5,7 +5,11 @@
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 # Summary
-* Curious and globally minded Hospitality and Tourism Management student with strong intercultural communication skills developed through study and work experiences in Thailand and New Zealand. Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2022, I have also been exploring the field of Artificial Intelligence, specializing in prompt engineering, AI model training, and creative computer applications. As well as applying AI-driven tools in hospitality, education, and tourism innovation. Combining interests in technology, language, and hospitality, I strive to enhance guest experiences, improve operational efficiency, and promote cross-cultural understanding through digital transformation and creative engagement.
+* Motivated and curious minded Hospitality and Tourism Management student with strong intercultural communication skills developed through study and professional experiences in Thailand and New Zealand.
+* Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2016, I have also cultivated a strong passion for politics and political science, with a special focus on U.S. and U.K. political systems, policy developments, and their cultural implications.
+* In addition, I have been actively exploring Artificial Intelligence since 2022, specializing in prompt engineering and AI model training.
+* I am particularly interested in integrating AI-driven tools into hospitality, education, and tourism, using technology to enhance human experience, operational efficiency, and global engagement.
+* By combining my knowledge of technology, history, language, and politics, I seek to bridge human understanding across cultures while promoting innovative and ethical solutions in both digital and service-oriented industries.
 
 # Education
 * Hospitality and Tourism Management, Payap University – Chiang Mai, Thailand
@@ -32,11 +36,12 @@
 > Handled newspaper distribution logistics, ensuring punctual delivery and operational reliability.
 
 # Interests
-* Artificial Intelligence & Prompt Engineering — training and optimizing AI models, exploring human–AI interaction since 2022
-* Computer Applications & Game Design — modding, creating, and experimenting with games and simulation-based learning tools
-* Historical Studies — European eras (Napoleonic, Victorian, WWI–WWII) and Asian periods (Three Kingdoms, Sengoku, Edo)
-* Hospitality Technology — using data analytics, AI, and automation to enhance guest service and tourism operations
-* Language & Cultural Exchange — developing translation and communication solutions for international hospitality contexts
+* Artificial Intelligence & Prompt Engineering — Training and optimizing AI models, exploring human–AI interaction since 2022
+* Computer Applications & Game Design — Modding, designing, creating, and experimenting with games and simulation-based learning tools
+* Political Science & Global Affairs — Studying political ideologies, diplomacy, and governance with focus on U.S. and U.K. politics since 2016
+* Historical Studies — Researching European (Napoleonic, Victorian, WWI–WWII) and Asian (Three Kingdoms, Sengoku, Edo) eras to understand cultural and societal evolution
+* Hospitality Technology — Implementing AI, analytics, and automation to enhance guest experiences and tourism management systems
+* Language & Cultural Exchange — Building and developing translation, interpretation tools and communication solutions to foster intercultural understanding in hospitality contexts
 
 # Languages
 * Thai – Native
