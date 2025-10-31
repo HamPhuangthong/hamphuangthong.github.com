@@ -16,13 +16,20 @@
 
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
+> Assisted and interpreted for foreign visitors and residents in immigration processes. Provided hospitality-oriented support to ensure clear communication, comfort, and professional service.
 * Regional Manager (Northern Thailand) - CLC International, CLC Thailand
+> Supervised regional retail and logistics operations, led cross-functional teams, and coordinated book distribution strategies throughout Northern Thailand.
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
+> Managed day-to-day store operations, customer relations, and inventory systems. Promoted intercultural engagement and organizational efficiency.
 * Interpreter and Translator for Christian Missionary Organizations - Chiang Mai, Thailand
+> Facilitated communication between international missionaries and local communities through translation and interpretation.
 * Assistant Regional Director (Northern Thailand) - P.T. Air Cargo Company Limited
-* Cleaning Staff / Crew - Jani‑King International, Jani-King New Zealand
+> Supported logistics coordination, documentation, and customer relations for air cargo and freight forwarding services.
+* Cleaning Staff / Crew Member - Jani‑King International, Jani-King New Zealand
+> Delivered high-quality cleaning and maintenance services in commercial environments, maintaining strong attention to detail and customer satisfaction.
 * Distribution & Delivery Staff - The Star - Christchurch, New Zealand
+> Handled newspaper distribution logistics, ensuring punctual delivery and operational reliability.
 
 # Interests
 * Artificial Intelligence & Prompt Engineering — training and optimizing AI models, exploring human–AI interaction since 2022
@@ -30,7 +37,6 @@
 * Historical Studies — European eras (Napoleonic, Victorian, WWI–WWII) and Asian periods (Three Kingdoms, Sengoku, Edo)
 * Hospitality Technology — using data analytics, AI, and automation to enhance guest service and tourism operations
 * Language & Cultural Exchange — developing translation and communication solutions for international hospitality contexts
-* Blended and Online Learning — promoting accessible education for global tourism professionals
 
 # Languages
 * Thai – Native
