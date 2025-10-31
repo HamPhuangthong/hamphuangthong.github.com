@@ -6,10 +6,9 @@
 
 # Summary
 * Motivated and curious minded Hospitality and Tourism Management student with strong intercultural communication skills developed through study and professional experiences in Thailand and New Zealand.
-* Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2016, I have also cultivated a strong passion for politics and political science, with a special focus on U.S. and U.K. political systems, policy developments, and their cultural implications.
-* In addition, I have been actively exploring Artificial Intelligence since 2022, specializing in prompt engineering and AI model training.
-* I am particularly interested in integrating AI-driven tools into hospitality, education, and tourism, using technology to enhance human experience, operational efficiency, and global engagement.
-* By combining my knowledge of technology, history, language, and politics, I seek to bridge human understanding across cultures while promoting innovative and ethical solutions in both digital and service-oriented industries.
+* Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2016, have also cultivated a strong passion for politics and political science, with a special focus on U.S. and U.K. political systems, policy developments, and their cultural implications.
+* In addition, have been actively exploring Artificial Intelligence since 2022, specializing in prompt engineering and AI model training.
+* Particularly interested in integrating AI-driven tools into hospitality, education, and tourism, using technology to enhance human experience, operational efficiency, and global engagement.
 
 # Education
 * Hospitality and Tourism Management, Payap University – Chiang Mai, Thailand
