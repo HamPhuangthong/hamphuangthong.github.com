@@ -20,7 +20,7 @@
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
 > Assisted and interpreted for foreign visitors and residents in immigration processes. Provided hospitality-oriented support to ensure clear communication, comfort, and professional service.
-* Immigration Intern Officer – Immigration Bureau of Thailand, Immigration Division 5, Chiang Mai Immigration
+* Immigration Intern Officer – Thai Immigration Bureau, Immigration Division 5, Chiang Mai Immigration
 > Supported daily immigration operations through administrative assistance, document verification, and customer service. Assisted international visitors and residents with immigration procedures while promoting effective communication, professionalism, and a positive service experience.
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
