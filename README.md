@@ -1,17 +1,17 @@
 <img src="http://hamphuangthong.github.io/ham.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Tanaphat (Ham) Phuangthong_
-> Payap University, Department of Hospitality and Tourism Management<br />
+> Payap University, Department of Hospitality Industry Management<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 # Summary
-* Motivated and curious minded Hospitality and Tourism Management student with strong intercultural communication skills developed through study and professional experiences in Thailand and New Zealand.
+* Motivated and curious minded Hospitality Industry Management student with strong intercultural communication skills developed through study and professional experiences in Thailand and New Zealand.
 * Deeply passionate about world history, particularly the Napoleonic, Victorian, World War I & II, and major Asian historical eras such as China’s Three Kingdoms and Japan’s Sengoku and Edo periods. Since 2016, have also cultivated a strong passion for politics and political science, with a special focus on U.S. and U.K. political systems, policy developments, and their cultural implications.
 * In addition, have been actively exploring Artificial Intelligence since 2022, specializing in prompt engineering and AI model training.
 * Particularly interested in integrating AI-driven tools into hospitality, education, and tourism, using technology to enhance human experience, operational efficiency, and global engagement.
 
 # Education
-* Hospitality and Tourism Management, Payap University – Chiang Mai, Thailand
+* Hospitality Industry Management, Payap University – Chiang Mai, Thailand
 * Cashmere High School, Christchurch, New Zealand
 * Christchurch South Intermediate, Christchurch, New Zealand
 * Spreydon Primary School, Christchurch, New Zealand
