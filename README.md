@@ -12,10 +12,10 @@
 
 # Education
 * Hospitality Industry Management, Payap University – Chiang Mai, Thailand
-* Cashmere High School, Christchurch, New Zealand
-* Christchurch South Intermediate, Christchurch, New Zealand
-* Spreydon Primary School, Christchurch, New Zealand
-* Srinakharinwirot University Prasarnmit Demonstration School, Bangkok, Thailand
+* Cashmere High School – Christchurch, New Zealand
+* Christchurch South Intermediate – Christchurch, New Zealand
+* Spreydon Primary School, Christchurch – New Zealand
+* Srinakharinwirot University Prasarnmit Demonstration School – Bangkok, Thailand
 
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
