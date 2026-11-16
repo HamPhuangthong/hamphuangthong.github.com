@@ -20,8 +20,6 @@
 # Experience
 * Immigration Consultant - Chiang Mai, Thailand
 > Assisted and interpreted for foreign visitors and residents in immigration processes. Provided hospitality-oriented support to ensure clear communication, comfort, and professional service.
-* Regional Manager (Northern Thailand) - CLC International, CLC Thailand
-> Supervised regional retail and logistics operations, led cross-functional teams, and coordinated book distribution strategies throughout Northern Thailand.
 * Store Manager - CLC International, CLC Thailand
 * Assistant Store Manager - CLC International, CLC Thailand
 > Managed day-to-day store operations, customer relations, and inventory systems. Promoted intercultural engagement and organizational efficiency.
@@ -48,6 +46,3 @@
 * Japanese – Beginner
 * German – Beginner
 * French – Beginner
-
-# Contact Info
-* [Facebook](https://www.facebook.com/profile.php?id=61582542071603)
